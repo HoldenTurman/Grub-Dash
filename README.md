@@ -3,7 +3,7 @@
 <h2>Usage</h2>
 Fork and Clone Repository
 <ul>
-  <li>npm i in frontend folder</li>
+  <li>npm i in starter-grub-dash-frontend-mainfolder</li>
   <li>npm i in backend folder</li>
   <li>npm start in frontend folder</li>
   <li>npm start in project folder</li>

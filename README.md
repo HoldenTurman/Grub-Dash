@@ -4,7 +4,7 @@
 Fork and Clone Repository
 <ul>
   <li>npm i in frontend folder</li>
-  <li>npm i in project folder</li>
+  <li>npm i in backend folder</li>
   <li>npm start in frontend folder</li>
   <li>npm start in project folder</li>
 </ul>

@@ -2,10 +2,12 @@
 
 <h2>Usage</h2>
 Fork and Clone Repository
-npm i in frontend folder
-npm i in project folder
-npm start in frontend folder
-npm start in project folder
+<ul>
+  <li>npm i in frontend folder</li>
+  <li>npm i in project folder</li>
+  <li>npm start in frontend folder</li>
+  <li>npm start in project folder</li>
+</ul>
 
 <h2>Coding Languages</h2><br>
 <h3>Frontend</h3>
